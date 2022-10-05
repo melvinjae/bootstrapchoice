@@ -1,0 +1,45 @@
+.navbar-top {
+  background-color: #272B33;
+  height: 50px;
+  padding: 8px;
+  overflow: hidden;
+}
+.navbar-bot {
+  margin-top: 51px;
+  background-color: #292828;
+  height: 70px;
+  padding: 5px;
+}
+hr {
+  margin-top: 51px;
+  background: linear-gradient(to right,#0D9FCC,#0678AA,#90B413);
+  height: 10px;
+}
+li {
+  color: white;
+}
+.danger {
+  border-color: #f44336;
+  color: red
+}
+img.mini {
+  width: 608px;
+  height: auto;
+}
+p {
+  font-size: large;
+}
+a.black-link {
+  text-decoration: none;
+  color: black;
+  float: right;
+}
+img.cs {
+  width: 540px;
+  height: auto;
+}
+footer {
+  background-color: #100D15;
+  justify-content: center;
+  margin: auto;
+}
